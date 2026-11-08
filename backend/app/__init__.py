@@ -1,0 +1,1 @@
+"""SolanaGuard AI backend application."""
